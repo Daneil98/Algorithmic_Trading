@@ -39,6 +39,8 @@
 ## Features
 
 - A Trading bot that connects to MetaTrader5 via Blueberry and uses the mean reversion strategy on the preselected commodity and gives live trade updates every second in the terminal.
+- Python Scripts that carry out time series analysis tests namely Augmented Dickey Fuller(ADF), Cointegrated ADF and Hurst Exponent Test on selected commodities.
+- Python Trade Management and Execution scripts with the MetaTrader5 API.
 
 ## Environment Variables
 
